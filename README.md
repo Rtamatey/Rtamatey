@@ -1,8 +1,3 @@
-<!-- HEADER / COVER -->
-<p align="center">
-  <img src="https://i.ibb.co/vv3XgYP/github-banner.png" alt="Ransford Banner" width="100%"/>
-</p>
-
 <h1 align="center">👋🏾 Hi, I’m Ransford Owreku Tamatey</h1>
 <p align="center">
   🎓 ALX <b>Front-End Engineering Learner</b> | 💡 Curious Explorer | 🚀 Future Builder
